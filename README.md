@@ -1,12 +1,12 @@
 <div align="center">
 
-# sqdmki
+# squadmiki
 **Middle Fullstack Web Developer** · 3+ years of production experience
 
-[![GitHub](https://img.shields.io/badge/GitHub-sqdmki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sqdmki)
-[![Experience](https://img.shields.io/badge/Experience-3%2B%20years-0ea5e9?style=for-the-badge)](https://github.com/sqdmki)
-[![Role](https://img.shields.io/badge/Role-Fullstack-22c55e?style=for-the-badge)](https://github.com/sqdmki)
-[![Focus](https://img.shields.io/badge/Focus-Web%20Apps%20%7C%20UI%20%7C%20API-6366f1?style=for-the-badge)](https://github.com/sqdmki)
+[![GitHub](https://img.shields.io/badge/GitHub-squadmiki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/squadmiki)
+[![Experience](https://img.shields.io/badge/Experience-3%2B%20years-0ea5e9?style=for-the-badge)](https://github.com/squadmiki)
+[![Role](https://img.shields.io/badge/Role-Fullstack-22c55e?style=for-the-badge)](https://github.com/squadmiki)
+[![Focus](https://img.shields.io/badge/Focus-Web%20Apps%20%7C%20UI%20%7C%20API-6366f1?style=for-the-badge)](https://github.com/squadmiki)
 
 <br/>
 
@@ -151,19 +151,27 @@ Fullstack-разработчик уровня **middle** с коммерческ
 
 ---
 
+## GitHub Stats
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=squadmiki&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squadmiki&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="46%" />
+</div>
 
-<a href="https://github.com/sqdmki">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sqdmki&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" />
-</a>
-<a href="https://github.com/sqdmki">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqdmki&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=E2E8F0" />
-</a>
+<br/>
 
-<br/><br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=squadmiki&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="94%" />
+</div>
+
+<br/>
+
+<div align="center">
 
 **Готов обсудить проект и реализовать его от идеи до продакшена.**
 
-[![GitHub](https://img.shields.io/badge/Contact-github.com%2Fsqdmki-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sqdmki)
+[![GitHub](https://img.shields.io/badge/Contact-github.com%2Fsquadmiki-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/squadmiki)
+
+<img src="https://komarev.com/ghpvc/?username=squadmiki&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
