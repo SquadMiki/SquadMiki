@@ -154,14 +154,9 @@ Fullstack-разработчик уровня **middle** с коммерческ
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=squadmiki&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" width="46%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squadmiki&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="46%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=squadmiki&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="94%" />
+  <img src="https://streak-stats.demolab.com/?user=squadmiki&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://ghchart.rshah.org/58A6FF/squadmiki" alt="GitHub contributions" />
 </div>
 
 <br/>
@@ -170,7 +165,7 @@ Fullstack-разработчик уровня **middle** с коммерческ
 
 **Готов обсудить проект и реализовать его от идеи до продакшена.**
 
-[![GitHub](https://img.shields.io/badge/Contact-github.com%2Fsquadmiki-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/squadmiki)
+[![GitHub](https://img.shields.io/badge/github.com%2Fsquadmiki-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/squadmiki)
 
 <img src="https://komarev.com/ghpvc/?username=squadmiki&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="profile views"/>
 
