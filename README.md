@@ -1,81 +1,169 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:38BDF8&height=180&section=header&text=sqdmki&fontSize=72&fontAlignY=35&fontColor=F8FAFC&animation=fadeIn&desc=middle%20fullstack%20web-developer&descAlignY=62&descSize=16" width="100%"/>
+# sqdmki
+**Middle Fullstack Web Developer** · 3+ years of production experience
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5+3+%D0%BB%D0%B5%D1%82+%D0%BE%D0%BF%D1%8B%D1%82%D0%B0;frontend+%2B+backend+%2B+UX%2FUI;современные+веб-решения+под+задачу" alt="typing" />
+[![GitHub](https://img.shields.io/badge/GitHub-sqdmki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sqdmki)
+[![Experience](https://img.shields.io/badge/Experience-3%2B%20years-0ea5e9?style=for-the-badge)](https://github.com/sqdmki)
+[![Role](https://img.shields.io/badge/Role-Fullstack-22c55e?style=for-the-badge)](https://github.com/sqdmki)
+[![Focus](https://img.shields.io/badge/Focus-Web%20Apps%20%7C%20UI%20%7C%20API-6366f1?style=for-the-badge)](https://github.com/sqdmki)
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sqdmki-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/sqdmki)
-[![Experience](https://img.shields.io/badge/experience-3%2B%20years-38BDF8?style=for-the-badge)](https://github.com/sqdmki)
-[![Stack](https://img.shields.io/badge/stack-fullstack-0EA5E9?style=for-the-badge)](https://github.com/sqdmki)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=Frontend+%7C+Backend+%7C+UX%2FUI;React+%C2%B7+Next.js+%C2%B7+Go+%C2%B7+Java+%C2%B7+Python;Modern+web+products+from+scratch" alt="typing" />
 
 </div>
 
 ---
 
-### обо мне
+## About
 
-Я **middle fullstack web-разработчик** с опытом работы **более 3 лет**.  
-За это время реализовал множество проектов, которые показывают навыки и подход к работе.
+Fullstack-разработчик уровня **middle** с коммерческим опытом **более 3 лет**.  
+Проектирую и реализую веб-продукты целиком: интерфейс, серверную логику, интеграции, производительность и дальнейшую поддержку.
 
-Моя цель — создавать **современные, функциональные и визуально привлекательные** веб-решения, которые закрывают задачи клиента.
+Цель — современные, стабильные и визуально точные решения, которые закрывают задачу бизнеса, а не просто «выглядят красиво».
 
-```txt
-nickname : sqdmki
-level    : middle fullstack
-exp      : 3+ years
-focus    : web apps, UI, backend, product
-```
+| | |
+| :--- | :--- |
+| **Level** | Middle Fullstack |
+| **Experience** | 3+ years |
+| **Domain** | Web applications, product UI, backend, integrations |
+| **Approach** | architecture → implementation → polish → support |
 
 ---
 
-### навыки
+## Tech Stack
 
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,kotlin,go,java,php,py,figma,git,github,linux,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,go,java,php,py" />
 </p>
 
-| направление | стек |
-| :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript, React, Next.js, Kotlin и др. |
-| **Backend** | Go (Golang), Java, PHP, Python |
-| **Дизайн** | адаптивные интерфейсы, UX/UI |
-| **Дополнительно** | современные фреймворки и инструменты для динамичных веб-приложений |
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,vite,webpack,jquery,nodejs,npm,yarn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+### Backend & API
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,php,py,spring,laravel,fastapi,flask,express,nestjs,graphql,postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vscode,idea,webstorm,md" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+### Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,xd,ai" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UX%2FUI-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-38BDF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SEO-0EA5E9?style=for-the-badge"/>
+</p>
 
 ---
 
-### что я предлагаю
+## What I do
 
-- разработка веб-сайтов и приложений **с нуля**
-- адаптивный и современный дизайн
-- оптимизация производительности и **SEO**
-- интеграция с API и backend-логика
-- поддержка и доработка существующих проектов
+- разработка веб-сайтов и приложений **с нуля**: архитектура, UI, backend, деплой
+- адаптивный интерфейс и аккуратный **UX/UI**
+- оптимизация производительности, Core Web Vitals и **SEO**
+- проектирование API, интеграции со сторонними сервисами, серверная логика
+- сопровождение, рефакторинг и развитие существующих проектов
 
 ---
 
-### почему выбирают меня
+## Approach
 
-- более **3 лет** опыта и портфолио с успешными проектами
-- внимание к деталям и индивидуальный подход к каждому клиенту
-- соблюдение сроков и высокое качество работы
-- гибкость в технологиях под конкретную задачу
+- внимание к деталям и индивидуальная постановка задачи
+- сроки и предсказуемый результат, без «потом поправим»
+- стек под задачу, а не наоборот
+- код, который можно поддерживать после релиза
 
 ---
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sqdmki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqdmki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" />
+<a href="https://github.com/sqdmki">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sqdmki&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" />
+</a>
+<a href="https://github.com/sqdmki">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqdmki&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=E2E8F0" />
+</a>
 
 <br/><br/>
 
-**Готов воплотить ваши идеи в жизнь.**  
-Свяжитесь со мной, чтобы обсудить проект.
+**Готов обсудить проект и реализовать его от идеи до продакшена.**
 
-<img src="https://komarev.com/ghpvc/?username=sqdmki&style=flat-square&color=0ea5e9&label=profile+views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" width="100%"/>
+[![GitHub](https://img.shields.io/badge/Contact-github.com%2Fsqdmki-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sqdmki)
 
 </div>
